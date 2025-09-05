@@ -1,2 +1,2 @@
-# Lab2HC-hyperlinks
-Lab 2 for Web Applications class. Creates a web page with hyperlinks as well as other features.
+# Hyperlinks Lab
+This is a page intended to give the top 25 career leaders for each major stat category (points, rebounds, assits, steals, blocks) and also provides links to each page from the individual list pages.
