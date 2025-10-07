@@ -1,0 +1,77 @@
+/* Center page and set max width */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f8f8;
+  color: #222;
+}
+
+/* Headings */
+h1 {
+  font-size: 2em;
+  color: #003366;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #004080;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.6;
+}
+
+/* Class selector example */
+.highlight {
+  background-color: #e0f7ff;
+  padding: 10px;
+  border-left: 4px solid #007acc;
+  border-radius: 6px;
+}
+
+/* ID selector example */
+#main-video {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.2em;
+  }
+}
